@@ -1,0 +1,14 @@
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\bin\Debug\LabaProga3.exe.config
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\bin\Debug\LabaProga3.exe
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\bin\Debug\LabaProga3.pdb
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\obj\Debug\LabaProga3.csproj.AssemblyReference.cache
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\obj\Debug\LabaProga3.csproj.CoreCompileInputs.cache
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\obj\Debug\LabaProga3.exe
+C:\Users\zeis9\source\repos\LabaProga3\LabaProga3\obj\Debug\LabaProga3.pdb
+C:\Users\User\Desktop\LabaProga3\LabaProga3\bin\Debug\LabaProga3.exe.config
+C:\Users\User\Desktop\LabaProga3\LabaProga3\bin\Debug\LabaProga3.exe
+C:\Users\User\Desktop\LabaProga3\LabaProga3\bin\Debug\LabaProga3.pdb
+C:\Users\User\Desktop\LabaProga3\LabaProga3\obj\Debug\LabaProga3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LabaProga3\LabaProga3\obj\Debug\LabaProga3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabaProga3\LabaProga3\obj\Debug\LabaProga3.exe
+C:\Users\User\Desktop\LabaProga3\LabaProga3\obj\Debug\LabaProga3.pdb
