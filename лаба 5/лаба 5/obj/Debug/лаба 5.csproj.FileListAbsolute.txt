@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\лаба 5\лаба 5\bin\Debug\лаба 5.exe.config
+C:\Users\User\Desktop\лаба 5\лаба 5\bin\Debug\лаба 5.exe
+C:\Users\User\Desktop\лаба 5\лаба 5\bin\Debug\лаба 5.pdb
+C:\Users\User\Desktop\лаба 5\лаба 5\obj\Debug\лаба 5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лаба 5\лаба 5\obj\Debug\лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лаба 5\лаба 5\obj\Debug\лаба 5.exe
+C:\Users\User\Desktop\лаба 5\лаба 5\obj\Debug\лаба 5.pdb
