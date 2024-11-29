@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\лаба 2\лаба 2\bin\Debug\лаба 2.exe.config
+C:\Users\User\Desktop\лаба 2\лаба 2\bin\Debug\лаба 2.exe
+C:\Users\User\Desktop\лаба 2\лаба 2\bin\Debug\лаба 2.pdb
+C:\Users\User\Desktop\лаба 2\лаба 2\obj\Debug\лаба 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\лаба 2\лаба 2\obj\Debug\лаба 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лаба 2\лаба 2\obj\Debug\лаба 2.exe
+C:\Users\User\Desktop\лаба 2\лаба 2\obj\Debug\лаба 2.pdb
